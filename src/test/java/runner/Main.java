@@ -1,4 +1,4 @@
-package dev.ruthvik.runner;
+package runner;
 
 import dev.ruthvik.core.HttpServer;
 import dev.ruthvik.core.Response;
